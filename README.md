@@ -74,7 +74,7 @@
   </tr>
   <tr>
     <td>
-        <img src="https://streak-stats.demolab.com?user=ShriAlt&theme=tokyonight&hide_border=true" alt="top lang">
+        <img src="https://streak-stats.demolab.com?user=IMMANOJ31&theme=tokyonight&hide_border=true" alt="top lang">
     </td>
   </tr>
 </table>
