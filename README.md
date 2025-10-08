@@ -53,6 +53,10 @@
       <img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="24" />
       <a href="https://www.instagram.com/shriharsha_k_m/">Instagram</a>
     </th>  -->
+     <th>
+    <img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="24" alt="Instagram" />
+    <a href="https://www.instagram.com/manu.__31?igsh=MWZqOWphY2UzNnhmZA==" target="_blank" rel="noopener noreferrer">Instagram</a>
+  </th>
   </tr>
 </table>
 <br>
