@@ -1,5 +1,5 @@
 <header align="left">
-  <img src="github-header-image (1).png" alt="Header Banner" />
+  <img src="header.png" alt="Header Banner" />
 </header>
 
 ###
