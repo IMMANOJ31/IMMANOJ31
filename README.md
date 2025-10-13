@@ -4,7 +4,6 @@
 
 ###
 
-
 🧠 Java Enthusiast !!<br>
 🌱 Passionate about building efficient code & solving problems  
 📬 Reach me at: **manoj65293@gmail.com**
@@ -29,13 +28,14 @@
 ---
 
 ### 🎯 Current Focus
--  Strengthening core Java programming skills
--  Exploring backend concepts and building real-time mini projects
--  learning how servlets works
+- Strengthening core Java programming skills
+- Exploring backend concepts and building real-time mini projects
+- Learning how servlets work
+
 ---
 
 ### 🚀 2025 Goals
-- [x] get good with basics of java
+- [x] Get good with basics of Java
 - [ ] Master Java OOP concepts  
 - [ ] Build 3 complete Java-based web apps
 - [x] Learn JDBC and connect to MySQL  
@@ -53,32 +53,27 @@
       <img align="center" src="https://img.icons8.com/fluency/48/linkedin.png" width="24" height="24" />  
       <a href="https://www.linkedin.com/in/manoj-kumar-d-9a462a299/">LinkedIn</a>
     </th> 
-<!--     <th>
-      <img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="24" />
-      <a href="https://www.instagram.com/shriharsha_k_m/">Instagram</a>
-    </th>  -->
-     <th>
-    <img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="24" alt="Instagram" />
-    <a href="https://www.instagram.com/manu.__31?igsh=MWZqOWphY2UzNnhmZA==" target="_blank" rel="noopener noreferrer">Instagram</a>
-  </th>
+    <th>
+      <img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="24" alt="Instagram" />
+      <a href="https://www.instagram.com/manu.__31?igsh=MWZqOWphY2UzNnhmZA==" target="_blank" rel="noopener noreferrer">Instagram</a>
+    </th>
   </tr>
 </table>
-<br>
-<br
+<br><br>
 
 ---
----
+
 ### 📊 GitHub Stats
 
 <table>
   <tr>
     <td>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IMMANOJ31&layout=compact&theme=tokyonight" alt="top lang">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IMMANOJ31&layout=compact&theme=tokyonight" alt="Top Languages">
     </td>
   </tr>
   <tr>
     <td>
-        <img src="https://streak-stats.demolab.com?user=IMMANOJ31&theme=tokyonight&hide_border=true" alt="top lang">
+      <img src="https://streak-stats.demolab.com?user=IMMANOJ31&theme=tokyonight&hide_border=true" alt="GitHub Streak">
     </td>
   </tr>
 </table>
@@ -87,5 +82,3 @@
 
 ### 💡 Motto
 > *"Built once, reused forever — because writing the same code twice is a crime against developers."*
----
-
