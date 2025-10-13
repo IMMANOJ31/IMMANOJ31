@@ -68,12 +68,14 @@
 <table>
   <tr>
     <td>
+      <!-- Top Languages -->
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IMMANOJ31&layout=compact&theme=tokyonight" alt="Top Languages">
     </td>
   </tr>
   <tr>
     <td>
-      <img src="https://streak-stats.demolab.com?user=IMMANOJ31&theme=tokyonight&hide_border=true" alt="GitHub Streak">
+      <!-- Streak Stats (updated mirror) -->
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=IMMANOJ31&theme=tokyonight&hide_border=true" alt="GitHub Streak">
     </td>
   </tr>
 </table>
