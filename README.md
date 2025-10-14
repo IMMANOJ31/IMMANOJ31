@@ -1,86 +1,94 @@
-<header align="left">
-  <img src="header.png" alt="Header Banner" />
-</header>
 
-###
 
-🧠 Java Enthusiast !!<br>
-🌱 Passionate about building efficient code & solving problems  
-📬 Reach me at: **manoj65293@gmail.com**
+<h2 align="center">👋 Hey there, I'm Manoj Kumar</h2>
 
-----
+<p align="center">
+  🧠 <b>Java Enthusiast</b> | 💻 <b>Backend Learner</b> | 🚀 <b>Problem Solver</b>
+</p>
+
+---
+
+### 🌟 About Me
+- 🌱 Passionate about writing **clean, efficient, and reusable Java code**  
+- 💡 Currently exploring **Servlets, JDBC, and backend development**  
+- 📬 Reach me at: **[manoj65293@gmail.com](mailto:manoj65293@gmail.com)**  
+
+---
+
 ### 🛠️ Languages & Tools
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo" />
 </div>
 
 ---
 
 ### 🎯 Current Focus
-- Strengthening core Java programming skills
-- Exploring backend concepts and building real-time mini projects
-- Learning how servlets work
+- Strengthening **Core Java** fundamentals  
+- Building **mini backend projects**  
+- Learning how **Servlets & MVC** architecture work  
 
 ---
 
 ### 🚀 2025 Goals
-- [x] Get good with basics of Java
+- [x] Get good with basics of Java  
 - [ ] Master Java OOP concepts  
-- [ ] Build 3 complete Java-based web apps
 - [x] Learn JDBC and connect to MySQL  
-- [ ] Learn Spring and Spring Boot fundamentals  
-- [ ] Create RESTful APIs using Spring   
-- [x] Implement MVC architecture in a web app 
+- [ ] Build 3 complete Java-based web apps  
+- [ ] Learn Spring & Spring Boot fundamentals  
+- [ ] Create RESTful APIs using Spring  
+- [x] Implement MVC architecture in a web app  
 
 ---
 
 ### 🌐 Connect With Me
 
-<table align="left">
-  <tr>  
-    <th>
-      <img align="center" src="https://img.icons8.com/fluency/48/linkedin.png" width="24" height="24" />  
-      <a href="https://www.linkedin.com/in/manoj-kumar-d-9a462a299/">LinkedIn</a>
-    </th> 
-    <th>
-      <img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="24" alt="Instagram" />
-      <a href="https://www.instagram.com/manu.__31?igsh=MWZqOWphY2UzNnhmZA==" target="_blank" rel="noopener noreferrer">Instagram</a>
-    </th>
-  </tr>
-</table>
-<br><br>
+<p align="center">
+  <a href="https://www.linkedin.com/in/manoj-kumar-d-9a462a299/" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/linkedin.png" width="36" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/manu.__31?igsh=MWZqOWphY2UzNnhmZA==" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/instagram-new.png" width="36" alt="Instagram" />
+  </a>
+</p>
 
 ---
 
 ### 📊 GitHub Stats
 
-<table>
-  <tr>
-    <td>
-      <!-- Top Languages -->
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IMMANOJ31&layout=compact&theme=tokyonight" alt="Top Languages">
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <!-- Streak Stats (updated mirror) -->
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=IMMANOJ31&theme=tokyonight&hide_border=true" alt="GitHub Streak">
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IMMANOJ31&layout=compact&theme=tokyonight&hide_border=true" height="180em" />
+
+  <br><br>
+
+  <!-- ✅ GitHub Streak (Reliable mirror) -->
+<p align="center">
+  <img 
+       src="https://github-readme-streak-stats.demolab.com/?user=IMMANOJ31&theme=tokyonight&hide_border=true" 
+       alt="GitHub Streak Stats" 
+       height="180em"
+  />
+</p>
+
+
+  <br><br>
+
+  <!-- Overall Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=IMMANOJ31&show_icons=true&theme=tokyonight&hide_border=true" height="180em" />
+
+</div>
 
 ---
 
 ### 💡 Motto
-> *"Built once, reused forever — because writing the same code twice is a crime against developers."*
+> *“Built once, reused forever — because writing the same code twice is a crime against developers.”*
+
+---
