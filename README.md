@@ -65,17 +65,13 @@
 <div align="center">
 
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IMMANOJ31&layout=compact&theme=tokyonight&hide_border=true" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IMMANOJ31&layout=compact&theme=tokyonight" alt="top lang">
 
   <br><br>
 
-  <!-- ✅ GitHub Streak (Reliable mirror) -->
 <p align="center">
-  <img 
-       src="https://github-readme-streak-stats.demolab.com/?user=IMMANOJ31&theme=tokyonight&hide_border=true" 
-       alt="GitHub Streak Stats" 
-       height="180em"
-  />
+ <img src="https://streak-stats.demolab.com?user=IMMANOJ31&theme=tokyonight&hide_border=true" alt="top lang">
+
 </p>
 
 
