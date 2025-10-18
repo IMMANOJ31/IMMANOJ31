@@ -10,7 +10,7 @@
 
 ### 🌟 About Me
 - 🌱 Passionate about writing **clean, efficient, and reusable Java code**  
-- 💡 Currently exploring **Servlets, JDBC, and backend development**  
+- 💡 Currently exploring **Spring MVC and backend development**  
 - 📬 Reach me at: **[manoj65293@gmail.com](mailto:manoj65293@gmail.com)**  
 
 ---
@@ -30,7 +30,7 @@
 
 ### 🎯 Current Focus
 - Strengthening **Core Java** fundamentals  
-- Building **mini backend projects**  
+- Building **Full stack project**  
 - Learning how **Servlets & MVC** architecture work  
 
 ---
@@ -41,7 +41,7 @@
 - [x] Learn JDBC and connect to MySQL  
 - [ ] Build 3 complete Java-based web apps  
 - [ ] Learn Spring & Spring Boot fundamentals  
-- [ ] Create RESTful APIs using Spring  
+- [ ] Create RESTful APIs using Spring MVC 
 - [x] Implement MVC architecture in a web app  
 
 ---
