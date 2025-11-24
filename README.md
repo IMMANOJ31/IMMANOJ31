@@ -1,6 +1,6 @@
 
 
-<h2 align="center">👋 Hey there, I'm Manu</h2>
+<h2 align="center">👋 Hey there, I'm Manoj</h2>
 
 <p align="center">
   🧠 <b>Java Enthusiast</b> | 💻 <b>Backend Learner</b> | 🚀 <b>Problem Solver</b>
