@@ -57,31 +57,6 @@
     <img src="https://img.icons8.com/fluency/48/instagram-new.png" width="36" alt="Instagram" />
   </a>
 </p>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IMMANOJ31&layout=compact&theme=tokyonight" alt="top lang">
-
-  <br><br>
-
-<p align="center">
- <img src="https://streak-stats.demolab.com?user=IMMANOJ31&theme=tokyonight&hide_border=true" alt="top lang">
-
-</p>
-
-
-  <br><br>
-
-  <!-- Overall Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=IMMANOJ31&show_icons=true&theme=tokyonight&hide_border=true" height="180em" />
-
-</div>
-
 ---
 
 ### 💡 Motto
