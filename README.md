@@ -1,65 +1,67 @@
-
-
 <h2 align="center">👋 Hey, I'm Manoj</h2>
 
 <p align="center">
-  🧠 <b>Java Enthusiast</b> | 💻 <b>Backend Learner</b> | 🚀 <b>Problem Solver</b>
+  🧠 <b>Java Enthusiast</b> | 💻 <b>Backend Developer in Progress</b> | 🚀 <b>Problem Solver</b>
 </p>
 
 ---
 
-### 🌟 About Me
+### 🌟 About Me  
 - 🌱 Passionate about writing **clean, efficient, and reusable Java code**  
-- 💡 Currently exploring **Spring MVC & SpringBoot**  
+- 💡 Currently exploring **Spring MVC & Spring Boot**  
+- 🔧 Learning to build scalable backend applications  
 - 📬 Reach me at: **[manoj65293@gmail.com](mailto:manoj65293@gmail.com)**  
 
 ---
 
-### 🛠️ Languages & Tools
+### 🛠️ Tech Stack & Tools
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="45" alt="Spring" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" alt="VS Code" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="45" alt="IntelliJ IDEA" />
 </div>
 
 ---
 
-### 🎯 Current Focus
-- Strengthening **Core Java** fundamentals  
-- Building **Full stack project**  
-- Learning how **Servlets & MVC** architecture work  
+### 🎯 Current Focus  
+- Strengthening **Core Java** & **OOP**  
+- Building **full-stack Java-based projects**  
+- Understanding **Servlets**, **JSP**, and **MVC Architecture**  
+- Gaining confidence in **Spring Framework & Spring Boot**  
 
 ---
 
-### 🚀 2025 Goals
-- [x] Get good with basics of Java  
-- [ ] Master Java OOP concepts  
-- [x] Learn JDBC and connect to MySQL  
-- [ ] Build 3 complete Java-based web apps  
-- [x] Learn Spring & Spring Boot fundamentals  
-- [ ] Create RESTful APIs using Spring MVC 
-- [x] Implement MVC architecture in a web app  
+### 🚀 2025 Goals  
+- [x] Build strong Java fundamentals  
+- [ ] Master advanced OOP principles  
+- [x] Learn JDBC & integrate with MySQL  
+- [ ] Build **3 complete Java web applications**  
+- [x] Understand basics of Spring & Spring Boot  
+- [ ] Create & deploy RESTful APIs  
+- [x] Implement MVC architecture in real projects  
 
 ---
 
-### 🌐 Connect With Me
-
+### 🌐 Connect With Me  
 <p align="center">
   <a href="https://www.linkedin.com/in/manoj-kumar-d-9a462a299/" target="_blank">
     <img src="https://img.icons8.com/fluency/48/linkedin.png" width="36" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.instagram.com/manu.__31?igsh=MWZqOWphY2UzNnhmZA==" target="_blank">
+  <a href="https://www.instagram.com/manu.__31" target="_blank">
     <img src="https://img.icons8.com/fluency/48/instagram-new.png" width="36" alt="Instagram" />
   </a>
 </p>
+
 ---
 
-### 💡 Motto
-> *“Built once, reused forever — because writing the same code twice is a crime against developers.”*
+### 💡 Motto  
+> *“Build once, reuse forever — clean code always pays off.”*
 
 ---
