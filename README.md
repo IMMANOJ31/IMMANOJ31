@@ -51,8 +51,6 @@ A CRUD-based REST API using **Spring Boot**, MySQL, and proper layered architect
 ### 🔹 **Task Manager (Console-based Java App)**
 Core Java project demonstrating OOP, collections, and file handling.
 
-> *(I can help you write descriptions, README files, and documentation for your real projects — just tell me!)*
-
 ---
 
 ## 📊 GitHub Stats
