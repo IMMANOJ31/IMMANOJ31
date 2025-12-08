@@ -24,7 +24,6 @@ I’m a backend-focused developer passionate about building reliable, efficient,
 
 ### **Languages**
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 ### **Frameworks**
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
@@ -59,15 +58,8 @@ Core Java project demonstrating OOP, collections, and file handling.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=manoj&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manoj&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🐍 Contribution Snake  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=IMMANOJ31&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IMMANOJ31&layout=compact&theme=tokyonight" />
 </p>
 
 ---
