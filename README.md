@@ -48,25 +48,13 @@ A complete web application using **Servlets, JSP, JDBC, MVC architecture**.
 ### 🔹 **Spring Boot REST API**
 A CRUD-based REST API using **Spring Boot**, MySQL, and proper layered architecture.
 
-### 🔹 **Task Manager (Console-based Java App)**
-Core Java project demonstrating OOP, collections, and file handling.
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=IMMANOJ31&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IMMANOJ31&layout=compact&theme=tokyonight" />
-</p>
-
 ---
 
 ## 🎯 Goals for 2025  
 - ✔ Strengthen Core Java  
 - ✔ Learn JDBC + MySQL  
 - ✔ Understand MVC architecture  
-- ⬜ Build 3 Java-based web apps  
+- ✔ Build 3 Java-based web apps  
 - ⬜ Master Spring Boot REST APIs  
 - ⬜ Learn Design Patterns & Clean Architecture  
 
