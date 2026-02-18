@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Manu 👋</h1>
+<h1 align="center">Hey, Manoj here👋</h1>
 
 <p align="center">
   <strong>Java Developer</strong> • Backend Engineering Enthusiast • Problem Solver  
